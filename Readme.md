@@ -1,4 +1,4 @@
-**Aufgabe**
+# Aufgabe
 Ihr sollt verschiedene Laufzeiten von Sortieralgorithmen experimentell bestimmen. Hierzu messen
 wir die Laufzeit in Nanosekunden.
 
@@ -14,3 +14,5 @@ Diese geben die Länge des zu sortierenden Arrays an und die obere Grenze für d
 Anschließend sollt ihr verschieden lange Arrays mit unterschiedlichen Sortieralgorithmen sortieren lassen und 
 die Skalierung der Laufzeit von kleinen bis großen Eingabelängen in Diagrammen notieren. Sprecht euch ab und bildet Gruppen, so 
 dass vergleichbare Diagramme entstehen.
+
+Übrigens: Gestartet wird das Programm über die main-Methode in Run.java
