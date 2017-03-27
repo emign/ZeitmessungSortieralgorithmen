@@ -6,8 +6,8 @@ Importiert den Source-Code in eine IDE eurer Wahl.
 In der Run.java findet ihr die beiden Variablen
 
 ```java
-    int arrayLaenge = 100;
-    int oberGrenze = 100;
+    static int arrayLaenge = 100;
+    static int oberGrenze = 100;
 ```
 
 Diese geben die Länge des zu sortierenden Arrays an und die obere Grenze für den Wert der Zufallswerte.
