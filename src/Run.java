@@ -1,8 +1,8 @@
 import RandomArray.RandomArray;
 import Sortieralgorithmen.*;
+
 import javax.swing.*;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 /**
  * Created by nicolaiemig on 26.03.17.
@@ -13,8 +13,8 @@ public class Run{
     static long stopZeit;
     static int[] array;
 
-    int arrayLaenge = 100;
-    int oberGrenze = 100;
+    static int arrayLaenge = 100;
+    static int oberGrenze = 100;
 
 
 
